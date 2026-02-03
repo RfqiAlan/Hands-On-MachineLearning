@@ -1,0 +1,20 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Alice",
+        "department": "Engineering",
+        "projects": [
+            "Project X",
+            "Project Y"
+        ]
+    },
+    {
+        "employee_id": 102,
+        "name": "Bob",
+        "department": "Sales",
+        "projects": [
+            "Project A",
+            "Project B"
+        ]
+    }
+]
